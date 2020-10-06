@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="664" height="160" viewBox="0 0 664 160">
+  <g id="forma-geometrica" transform="translate(-376 -534)">
+    <path id="Caminho_3" data-name="Caminho 3" d="M0,0H160V160H0Z" transform="translate(376 534)" fill="#0ed"/>
+    <path id="Caminho_2" data-name="Caminho 2" d="M80,0l80,160H0Z" transform="translate(628 534)" fill="#abff00"/>
+    <path id="Caminho_1" data-name="Caminho 1" d="M80,0A80,80,0,1,1,0,80,80,80,0,0,1,80,0Z" transform="translate(880 534)" fill="#0511c5"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="672" height="274" viewBox="0 0 672 274">
+  <g id="logo" transform="translate(-376 -231)">
+    <g id="Retângulo_6" data-name="Retângulo 6" transform="translate(376 231)" fill="none" stroke="#000" stroke-width="3">
+      <rect width="672" height="274" rx="10" stroke="none"/>
+      <rect x="1.5" y="1.5" width="669" height="271" rx="8.5" fill="none"/>
+    </g>
+    <text id="pARA_CALCULAR_A_ÁREA" data-name="pARA CALCULAR A ÁREA" transform="translate(596 466)" font-size="30" font-family="Bangers-Regular, Bangers"><tspan x="0" y="0">pARA CALCULAR A ÁREA</tspan></text>
+    <text id="ESCOLHA_A_FORMA_" data-name="ESCOLHA A FORMA " transform="translate(430 334)" font-size="90" font-family="Bangers-Regular, Bangers"><tspan x="0" y="0">ESCOLHA A FORMA </tspan></text>
+    <text id="gEOMéTRICAS" transform="translate(511 428)" fill="red" font-size="85" font-family="Bangers-Regular, Bangers"><tspan x="0" y="0">gEOMéTRICAS</tspan></text>
+  </g>
+</svg>

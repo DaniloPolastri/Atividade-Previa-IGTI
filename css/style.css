@@ -1,0 +1,86 @@
+body {
+  font-family: 'Fira Code', monospace;
+}
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.containerLogo {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.alinhamento-central {
+  justify-content: center;
+  align-items: center;
+}
+
+.containerGeo {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.itemGeo {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  top: -90px;
+  left: 320px;
+}
+.itemGeo:hover {
+  border: 1px solid black;
+}
+#t,
+#c {
+  margin-left: 30px;
+}
+
+.containerForm {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+form {
+  width: 500px;
+  height: 290px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+form p {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  font-size: 35px;
+}
+form label {
+  font-size: 20px;
+}
+form input {
+  border-radius: 5px;
+}
+
+.input1 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+.input2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.input1 input {
+  width: 193px;
+}
+
+form [type='submit'] {
+  display: block;
+  margin: auto;
+}
+#logo {
+  width: 500px;
+  height: 500px;
+}
